@@ -3,6 +3,7 @@ name: anything-to-notebooklm
 description: 多源内容智能处理器：支持微信公众号、网页、YouTube、PDF、Markdown等，自动上传到NotebookLM并生成播客/PPT/思维导图等多种格式
 user-invocable: true
 homepage: https://github.com/joeseesun/anything-to-notebooklm
+agents: [creator, researcher]
 ---
 
 # 多源内容 → NotebookLM 智能处理器
@@ -630,3 +631,8 @@ https://mp.weixin.qq.com/s/abc123
 **Skill 创建时间**：2026-01-25
 **最后更新**：2026-01-25
 **版本**：v1.0.0
+
+## Known Failures & Fixes
+
+| 日期 | 症状 | 根因 | 修复 | 版本 |
+|------|------|------|------|------|
